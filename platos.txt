@@ -1,0 +1,5 @@
+1,Hamburguesa,10.5
+2,Pizza,12.0
+3,Ensalada,8.5
+4,Pasta,11.0
+5,Sopa,7.5
